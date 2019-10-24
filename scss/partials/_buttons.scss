@@ -34,13 +34,11 @@ button,
     &.dark {
         color: #fff;
         background-color: transparent;
-        border-color: $color-links-dark;
-    }
+        border-color: #fff;
 
         &:hover{
-            background-color: $color-links-dark;
-            color: #fff;
-            border-color: $color-links-dark;
+            background-color: #fff;
+            color: #000;
         }
     }
 

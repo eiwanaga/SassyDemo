@@ -26,9 +26,10 @@ button,
         background-color: #fff;   
         
         &:hover {
-        background-color: $color-links-dark;
-        color: #fff;
-        border-color: $color-links-dark;
+            background-color: $color-links-dark;
+            color: #fff;
+            border-color: $color-links-dark;
+        }
     }
 
     &.dark {
@@ -41,5 +42,4 @@ button,
             color: #000;
         }
     }
-
 }
